@@ -1,4 +1,6 @@
 # Byte_Club 
+THEME : CLIMATE OPTIMIZATION ENGINE
+
 # 🌿 EcoSense
 
 EcoSense is a behavioral carbon intelligence platform built for hybrid workers.
