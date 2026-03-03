@@ -142,6 +142,7 @@ The dashboard is a separate web application connected to Supabase.
 It provides:
 
 - 📊 Daily carbon breakdown
+- ✨ AI-Powered Tips and Suggestions
 - 🌐 Domain-level analysis
 - 🔄 Hybrid vs Office comparison
 - 📅 Monthly projections
@@ -173,5 +174,3 @@ It provides:
 ---
 
 EcoSense is designed to be lightweight, scalable, and extensible for enterprise hybrid work environments.
-
-Based on domain intensity classification.
