@@ -1,4 +1,4 @@
-# Byte_Club 
+# ByteClub 
 THEME : CLIMATE OPTIMIZATION ENGINE
 
 # 🌿 EcoSense
