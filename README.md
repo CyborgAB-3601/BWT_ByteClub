@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="120" alt="EcoSense Carbon Bubble" />
-</p>
 # ByteClub 
 THEME : CLIMATE OPTIMIZATION ENGINE
 
