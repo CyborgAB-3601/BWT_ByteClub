@@ -13,7 +13,8 @@ Home office devices | Work-hour electricity usage | Cloud-based digital activity
 
 This creates a visibility gap in measuring hybrid workforce emissions.
 
-It combines a Chrome extension for real-time carbon tracking with a web dashboard for analytics and sustainability insights.
+# 💡Solution
+EcoSense combines a Chrome extension for real-time carbon tracking with a web dashboard for analytics and sustainability insights.
 
 The system estimates carbon emissions from:
 
