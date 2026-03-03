@@ -35,6 +35,9 @@ EcoSense follows a **client-first architecture** with four core layers:
 3. Supabase Backend (Persistence & Security)
 4. Web Dashboard (Analytics & Visualization)
 
+
+<img width="4403" height="1244" alt="System_Architecture" src="https://github.com/user-attachments/assets/d98ef324-2103-4367-94af-5de08b0b2a4c" />
+
 ---
 
 ## 1️⃣ Chrome Extension
