@@ -5,6 +5,14 @@ THEME : CLIMATE OPTIMIZATION ENGINE
 
 EcoSense is a behavioral carbon intelligence platform built for hybrid workers.
 
+#🌍 The Problem
+Hybrid work has introduced a new sustainability challenge for organizations.
+As employees work from home using personal devices, energy usage shifts away from centralized offices, making carbon tracking more complex.
+Traditional carbon accounting systems do not account for:
+Home office devices | Work-hour electricity usage | Cloud-based digital activity | Changing commute patterns
+
+This creates a visibility gap in measuring hybrid workforce emissions.
+
 It combines a Chrome extension for real-time carbon tracking with a web dashboard for analytics and sustainability insights.
 
 The system estimates carbon emissions from:
