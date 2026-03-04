@@ -92,6 +92,7 @@ Runs continuously and handles:
 Carbon emissions are calculated using three components:
 
 #### ☁️ Cloud Carbon
+<img width="1918" height="895" alt="image" src="https://github.com/user-attachments/assets/a5277bfa-6492-4b1c-84a5-04e933a84ea6" />
 
 
 All calculations run locally for speed and performance.
@@ -115,7 +116,8 @@ Used to:
 - Calculate commute distance
 - Estimate transport emissions
 
-- 
+- <img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/bb08cd11-d031-4923-bf81-c04897c45fc0" />
+
 
 ---
 
