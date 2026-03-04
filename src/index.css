@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #0B0F14;
+  --surface: rgba(16, 21, 28, 0.6);
+  --surface-solid: #10151C;
+  --primary: #2EEA8A;
+  --teal: #16D2C1;
+  --blue: #59A6FF;
+  --yellow: #F9D65C;
+  --red: #FF5C7C;
+  --text-hi: #E8F4EE;
+  --text-lo: #9BB3A5;
+  --line: rgba(46, 234, 138, 0.18);
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --elev: 0 8px 24px rgba(0,0,0,0.45);
+  --halo: 0 0 20px rgba(46, 234, 138, 0.35);
+  
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in: cubic-bezier(0.2, 0, 0, 1);
+}
+
+@layer base {
+  body {
+    @apply bg-bg text-text-hi font-sans antialiased overflow-hidden;
+    background-image: 
+      radial-gradient(circle at 50% 0%, rgba(46, 234, 138, 0.05) 0%, transparent 50%),
+      radial-gradient(circle at 80% 80%, rgba(22, 210, 193, 0.03) 0%, transparent 40%);
+  }
+}
+
+@layer components {
+  .glass {
+    @apply bg-surface/60 backdrop-blur-md border border-line shadow-glass;
+  }
+  
+  .glass-panel {
+    @apply glass rounded-2xl;
+  }
+
+  .text-tabular {
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(155, 179, 165, 0.2);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(155, 179, 165, 0.4);
+}
