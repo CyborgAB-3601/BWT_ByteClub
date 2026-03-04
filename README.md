@@ -57,6 +57,9 @@ Allows users to:
 - Enter work hours
 - Open the full dashboard
 
+- <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/bb776864-1c9c-4f84-a09f-e3ac182c191e" />
+
+
 ---
 
 ### 🔹 Floating EcoBubble Panel
@@ -67,6 +70,9 @@ Features:
 - Active session timer
 - Environmental alerts
 - Optimization suggestions
+
+- <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8a894dfb-d880-4374-8cff-cca227f1a2eb" />
+
 
 ---
 
@@ -108,6 +114,8 @@ Used to:
 Used to:
 - Calculate commute distance
 - Estimate transport emissions
+
+- 
 
 ---
 
