@@ -72,7 +72,7 @@ export const DEFAULT_USER_CONFIG_V2: UserConfigV2 = {
 export const storageGet = async <T>(
   keys: string | string[] | Record<string, unknown>
 ): Promise<T> => {
-  return (await chrome.storage.local.get(keys)) as T;
+  return (await chrome.storage.local.get(keys as any)) as T;
 };
 
 export const storageSet = async (items: Record<string, unknown>): Promise<void> => {
